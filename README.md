@@ -5,7 +5,7 @@
 
 ## Alumno
 
-**Nombre del alumno**: _[nombre_del_alumno]_
+**Nombre del alumno**: FABRICIO QUIROGA_
 
 ## 📄 Descripción del Proyecto
 
